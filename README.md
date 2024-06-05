@@ -1,1 +1,1 @@
-# Famms
+Famms is a modern, responsive website template designed for fashion stores. It offers a clean, elegant design that can be easily customized to fit the branding needs of various fashion retailers. The project utilizes HTML and CSS to create a visually appealing and user-friendly interface.
